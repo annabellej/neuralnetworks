@@ -1,3 +1,3 @@
 # neuralnetworks
-Repository of my code from Honors Advanced Topics CS Neural Networks, adhering to class coding standards/style.
-(High School Senior Year, First Semester)
+Repository from Neural Networks, adhering to class coding standards/style.
+Perceptron with back-propagation, image-processing.
