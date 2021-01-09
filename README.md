@@ -1,3 +1,5 @@
-# neuralnetworks
-Repository from Neural Networks, adhering to class coding standards/style.
-Perceptron with back-propagation, image-processing.
+# Multilayer Perceptron Algorithm
+
+Project for neural networks course.
+
+Multilayer Perceptron neural network model with back propagation for training.
